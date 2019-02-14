@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginJesus</string>
+    <string name="hint1">Usuario</string>
+    <string name="hint2">Contraseña</string>
+    <string name="boton">Iniciar Sesión</string>
+
+    <string name="textoVista2">Inicio de sesión exitoso</string>
+    <string name="botonRegreso">Volver</string>
+</resources>
